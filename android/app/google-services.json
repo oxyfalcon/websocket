@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "286689301924",
+    "firebase_url": "https://test-eb59b-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "test-eb59b",
+    "storage_bucket": "test-eb59b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:286689301924:android:af020e3e21257676921d31",
+        "android_client_info": {
+          "package_name": "com.example.websocket_webapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC04vrUZS2nZ2KXvphmLLB5gcqQjnJIa0M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
